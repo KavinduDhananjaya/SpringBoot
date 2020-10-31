@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jde2HL95kTSoLqqdf9I1Q5Q6az" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBoot02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_boot_02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ijse.spring_boot_02.SpringBoot02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="117" width="447" height="520" key="FileChooserDialogImpl" timestamp="1604138326982">
+      <screen x="0" y="27" width="1366" height="693" />
+    </state>
+    <state x="454" y="117" width="447" height="520" key="FileChooserDialogImpl/0.27.1366.693@0.27.1366.693" timestamp="1604138326982" />
+  </component>
+</project>
